@@ -88,25 +88,6 @@ I enjoy learning by building projects and experimenting with technologies across
 
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=24f2008611&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=24f2008611&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=24f2008611&theme=dark&hide_border=false)
-
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/V-Srikar/V-Srikar/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/V-Srikar/V-Srikar/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/V-Srikar/V-Srikar/output/github-snake.svg" alt="GitHub Contribution Snake">
-</picture>
-
-</div>
-
----
-
 ## Interests
 
 * Software Development
