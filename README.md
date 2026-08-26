@@ -91,14 +91,15 @@ I enjoy learning by building projects and experimenting with technologies across
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=24f2008611&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api?username=24f2008611&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=24f2008611&theme=dark&hide_border=false)
+<br>
 
-
-
-</div><br>
-<!-- Snake Game Repo View -->
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img
+    src="https://profile-readme-generator.com/assets/snake.svg"
+    alt="Snake animation"
+  />
 </div>
 
 ---
