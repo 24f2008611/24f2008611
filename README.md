@@ -74,23 +74,32 @@ I enjoy learning by building projects and experimenting with technologies across
 
 ---
 
-## GitHub Activity
+# 📊 GitHub Stats:
 
-## 🔥 Contribution Streak
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=V-Srikar&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=24f2008611&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=24f2008611&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=24f2008611&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=24f2008611&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=24f2008611&theme=radical&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=24f2008611&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=24f2008611&theme=radical">
 
-## 🐍 Contribution Snake
+</div>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/V-Srikar/V-Srikar/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/V-Srikar/V-Srikar/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/V-Srikar/V-Srikar/output/github-snake.svg">
-  </picture>
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=24f2008611&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=24f2008611&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=24f2008611&theme=dark&hide_border=false)
+
+
+
+</div><br>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
