@@ -76,18 +76,13 @@ I enjoy learning by building projects and experimenting with technologies across
 
 ## GitHub Activity
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=V-Srikar&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Srikar&layout=compact&hide_border=true" height="170"/>
-</p>
+## GitHub Statistics
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=V-Srikar&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=V-Srikar&theme=github-compact&hide_border=true&area=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=V-Srikar&show_icons=true&hide_border=true" />
+
+</div>
 
 ---
 
