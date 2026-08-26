@@ -35,35 +35,6 @@ I enjoy learning by building projects and experimenting with technologies across
 
 ---
 
-## Featured Projects
-
-### REGAIN FOCUS
-
-A productivity-focused application designed to help users reduce distractions and improve their focus.
-
-**Focus:** Product Development • Productivity • Software Development
-
-> 🚧 Currently in development
-
----
-
-### Trekking Management Application
-
-A full-stack web application for managing trekking activities, users, staff and bookings.
-
-**Tech:** Flask • Jinja2 • Bootstrap • SQLite
-
----
-
-### Project HELIOS
-
-An experimental AI assistant exploring interactive AI through speech, camera input, object detection and gamification.
-
-**Focus:** AI • Computer Vision • Speech Interaction
-
-> 🚧 Experimental project
-
----
 
 ## Technologies
 
@@ -106,16 +77,16 @@ An experimental AI assistant exploring interactive AI through speech, camera inp
 ## GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=v-srikar&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-srikar&layout=compact&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=24f2008611&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24f2008611&layout=compact&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=v-srikar&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=24f2008611&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=v-srikar&theme=github-compact&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=24f2008611&theme=github-compact&hide_border=true&area=true" />
 </p>
 
 ---
@@ -128,8 +99,6 @@ An experimental AI assistant exploring interactive AI through speech, camera inp
 * Full Stack Development
 * Mobile Development
 * Game Development
-* 3D Development
-
 ---
 
 ## Beyond Code
@@ -154,7 +123,7 @@ An experimental AI assistant exploring interactive AI through speech, camera inp
 </a>
 &nbsp;
 <a href="https://www.codechef.com/users/vvit24bq1a054n">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" width="35"/>
+  <img src="https://cdn.simpleicons.org/codechef" width="40" alt="CodeChef"/>
 </a>
 </p>
 
