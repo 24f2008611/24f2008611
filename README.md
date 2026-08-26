@@ -76,11 +76,11 @@ I enjoy learning by building projects and experimenting with technologies across
 
 ## GitHub Activity
 
-## GitHub Statistics
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=V-Srikar&show_icons=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=V-Srikar&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 
 </div>
 
