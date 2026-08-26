@@ -1,16 +1,167 @@
 ## Hi there 👋
 
-<!--
-**24f2008611/24f2008611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Srikar</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+Computer Science Student • Software Developer • Cybersecurity Enthusiast
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://sai-srikar-portfolio.netlify.app/">Portfolio</a> •
+<a href="https://www.linkedin.com/in/srikar-iitm-bs/">LinkedIn</a> •
+<a href="mailto:srikar1734@gmail.com">Email</a>
+</p>
+
+---
+
+## About Me
+
+I'm a Computer Science student from India interested in **software development, cybersecurity, AI and building practical applications**.
+
+I primarily work with **React, Flutter, Python and Java**, and I'm currently expanding my skills into **full-stack development and backend technologies**.
+
+I enjoy learning by building projects and experimenting with technologies across different areas of computer science.
+
+---
+
+## Currently
+
+* 🔭 Building **REGAIN FOCUS**, a productivity-focused application.
+* 🌱 Learning **Full Stack Development** and exploring new technologies.
+* 🛡️ Exploring **Cybersecurity and Digital Forensics**.
+* 🤖 Learning more about **AI and intelligent applications**.
+* 🇯🇵 Learning **Japanese** as a hobby.
+* 🤝 Open to collaborating on **AI, Cybersecurity, Game Development and Software projects**.
+
+---
+
+## Featured Projects
+
+### REGAIN FOCUS
+
+A productivity-focused application designed to help users reduce distractions and improve their focus.
+
+**Focus:** Product Development • Productivity • Software Development
+
+> 🚧 Currently in development
+
+---
+
+### Trekking Management Application
+
+A full-stack web application for managing trekking activities, users, staff and bookings.
+
+**Tech:** Flask • Jinja2 • Bootstrap • SQLite
+
+---
+
+### Project HELIOS
+
+An experimental AI assistant exploring interactive AI through speech, camera input, object detection and gamification.
+
+**Focus:** AI • Computer Vision • Speech Interaction
+
+> 🚧 Experimental project
+
+---
+
+## Technologies
+
+### Languages
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
+</p>
+
+### Development
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
+</p>
+
+### Tools & Databases
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40"/>
+</p>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=v-srikar&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-srikar&layout=compact&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=v-srikar&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=v-srikar&theme=github-compact&hide_border=true&area=true" />
+</p>
+
+---
+
+## Interests
+
+* Software Development
+* Cybersecurity
+* Artificial Intelligence
+* Full Stack Development
+* Mobile Development
+* Game Development
+* 3D Development
+
+---
+
+## Beyond Code
+
+♟️ Chess • 🎌 Japanese • 🎬 Anime • 📚 Reading
+
+---
+
+## Connect
+
+<p>
+<a href="https://sai-srikar-portfolio.netlify.app/">
+<img src="https://img.icons8.com/fluency/48/domain.png" width="35"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/srikar-iitm-bs/">
+<img src="https://img.icons8.com/color/48/linkedin.png" width="35"/>
+</a>
+&nbsp;
+<a href="https://github.com/V-Srikar">
+<img src="https://img.icons8.com/fluency/48/github.png" width="35"/>
+</a>
+&nbsp;
+<a href="https://www.codechef.com/users/vvit24bq1a054n">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" width="35"/>
+</a>
+</p>
+
+📫 **[srikar1734@gmail.com](mailto:srikar1734@gmail.com)**
+
+---
+
+<p align="center">
+<i>Building, learning and experimenting one project at a time.</i>
+</p>
